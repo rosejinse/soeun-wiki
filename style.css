@@ -189,13 +189,3 @@ summary {
     margin-right: 5px;
     margin-left: 5px;
 }
-
-
-/* details summary::-webkit-details-marker {
-    background: url(이미지경로) center no-repeat;
-    color: transparent;
-}
-details[open] summary::-webkit-details-marker {
-    background: url(이미지경로) center no-repeat;
-    color: transparent;
-} */
